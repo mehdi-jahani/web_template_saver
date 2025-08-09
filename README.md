@@ -27,7 +27,7 @@ A Python script to download a complete webpage along with all its dependent file
 1. Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/yourusername/offline-webpage-downloader.git
+git clone https://github.com/mehdi-jahani/web_template_saver.git
 cd offline-webpage-downloader
 ```
 
