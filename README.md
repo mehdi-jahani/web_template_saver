@@ -55,7 +55,7 @@ tqdm
 1. Run the script:
 
 ```bash
-python offline_webpage_downloader.py
+python main.py
 ```
 
 2. Enter the URL of the webpage you want to download, for example: `https://example.com`
